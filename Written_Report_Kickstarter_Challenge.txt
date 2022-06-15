@@ -1,0 +1,31 @@
+# Kickstarting with Excel
+
+## Overview of Project
+# Louise’s play Fever came close to its fundraising goal in a short amount of time. 
+# She wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
+# Using the Kickstarter dataset that captured the various campaigns, we will visualize campaign outcomes.
+# Come up with insightful recommendations for future campaigns
+
+### Purpose
+# The purpose of this analysis is to help Louise determine and 
+# understand how the various campaigns fared in relation to their launch dates and 
+# their funding goals. Using the Kickstarter dataset, we create and report on the 
+# analysis and visualizations 
+
+## Analysis and Challenges
+# The main challenge is managing the associated data as it grows to hold the analysis and visualizations.
+
+### Analysis of Outcomes Based on Launch Date
+# The month that launched the most successful Kickstarter campaigns was May. 
+# However, January, June, July and October all had roughly the same number of failed campaigns launched
+
+### Analysis of Outcomes Based on Goals
+# Most successful outcomes have goals ranging from 1000 to 5000
+
+### Challenges and Difficulties Encountered
+# The excel file was crashing because of the volume of information
+
+## Results
+# The month that launched the most successful Kickstarter campaigns was May. 
+# However, January, June, July and October all had roughly the same number of failed campaigns launched
+# Most successful outcomes have goals ranging from 1000 to 5000
